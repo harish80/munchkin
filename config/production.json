@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "postgres": "postgres://acxpnvgxjynrkj:48b74bfc864afd49e6df1ded9387f82e1eab4069e40bfc35528dc171bf72d3ca@ec2-54-163-233-89.compute-1.amazonaws.com:5432/d169mrev078q78",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "0vh+yJsxAK1psLo6/wQtHg/a7JgusgT6GYJygPM4L9/Yrhhhmo2qC7Vxi/sNKr5opatAmhuiyqRu/qmMi4Rp1g=="
+    },
+    "local": {}
+  }
+}
